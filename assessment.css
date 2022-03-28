@@ -1,0 +1,21 @@
+.subjectHeader{
+  color: green;
+}
+
+th{
+color: pink;
+border-style: groove;
+}
+
+td{
+  border-style: dashed;
+  text-align: center;
+}
+
+teamRoster,li{
+  list-style-type: square;
+}
+
+hyperLink:hover{
+  
+}
